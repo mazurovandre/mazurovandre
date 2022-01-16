@@ -1,7 +1,7 @@
  ## Привет, меня зовут Андрей 👋
  
  ### Демо моих проектов
- - 👨‍👩‍👧 Социальная сеть на React
+ - 👨‍👩‍👧 Социальная сеть на React [Проект Github](http://https://github.com/mazurovandre/social-network/)
  - 📃 Kanban To Do List [Ссылка](http://mazurovandre.github.io/kanban-todo/)
  - 🧮 Конвертер величин [Ссылка](http://mazurovandre.github.io/converter-js/)
  - 🧶 Верстка лендинга [Ссылка](http://mazurovandre.github.io/olympic-landing/)
