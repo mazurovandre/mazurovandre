@@ -1,7 +1,7 @@
  # Привет, меня зовут Андрей 👋
  
  ## Мои проекты:
- - 👨‍👩‍👧 Социальная сеть (В разработке) **[DEMO / [REPO](http://github.com/mazurovandre/social-network/)]**
+ - 👨‍👩‍👧 Социальная сеть (В разработке) **[[DEMO](http://mazurovandre.github.io/) / [REPO](http://github.com/mazurovandre/social-network/)]**
  - ⏲️ Pomodoro Timer + To Do App + SoundCloud Player **[[DEMO](http://mazurovandre.github.io/productivity-booster/) / [REPO](http://github.com/mazurovandre/productivity-booster/)]**
  - 📃 Kanban To Do List **[[DEMO](http://mazurovandre.github.io/kanban-todo/) / [REPO](http://github.com/mazurovandre/kanban-todo/)]**
  - 🧮 Конвертер величин **[[DEMO](http://mazurovandre.github.io/converter-js/) / [REPO](http://github.com/mazurovandre/converter-js/)]**
