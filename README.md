@@ -1,8 +1,10 @@
  # Привет, меня зовут Андрей 👋
  
- ## Мои проекты:
+ ## Мои проекты на React:
  - 👨‍👩‍👧 Социальная сеть (В разработке) **[[DEMO](http://mazurovandre.github.io/) / [REPO](http://github.com/mazurovandre/social-network/)]**
  - ⏲️ Pomodoro Timer + To Do App + SoundCloud Player **[[DEMO](http://mazurovandre.github.io/productivity-booster/) / [REPO](http://github.com/mazurovandre/productivity-booster/)]**
+
+#### Еще немного на JS:
  - 📃 Kanban To Do List **[[DEMO](http://mazurovandre.github.io/kanban-todo/) / [REPO](http://github.com/mazurovandre/kanban-todo/)]**
  - 🧮 Конвертер величин **[[DEMO](http://mazurovandre.github.io/converter-js/) / [REPO](http://github.com/mazurovandre/converter-js/)]**
  - 🧶 Верстка лендинга **[[DEMO](http://mazurovandre.github.io/olympic-landing/) / [REPO](http://github.com/mazurovandre/olympic-landing/)]**
