@@ -1,7 +1,7 @@
  # Привет, меня зовут Андрей 👋
  
  ## Мои проекты на React:
- - 👨‍👩‍👧 Социальная сеть (В разработке) **[[DEMO](http://mazurovandre.github.io/) / [REPO](http://github.com/mazurovandre/social-network/)]**
+ - 👨‍👩‍👧 Социальная сеть (В разработке) **[[DEMO](http://f0629276.xsph.ru/) / [REPO](http://github.com/mazurovandre/social-network/)]**
  - ⏲️ Pomodoro Timer + To Do App + SoundCloud Player **[[DEMO](http://mazurovandre.github.io/productivity-booster/) / [REPO](http://github.com/mazurovandre/productivity-booster/)]**
 
 #### Еще немного на JS:
