@@ -7,7 +7,6 @@
 #### Еще немного на JS:
  - 📃 Kanban To Do List **[[DEMO](http://mazurovandre.github.io/kanban-todo/) / [REPO](http://github.com/mazurovandre/kanban-todo/)]**
  - 🧮 Конвертер величин **[[DEMO](http://mazurovandre.github.io/converter-js/) / [REPO](http://github.com/mazurovandre/converter-js/)]**
- - 📆 Обратный отсчет до Нового Года **[[DEMO](http://mazurovandre.github.io/new-year-countdown/) / [REPO](http://github.com/mazurovandre/new-year-countdown/)]**
 
 ## Стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
